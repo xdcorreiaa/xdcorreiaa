@@ -3,7 +3,7 @@
  - 🙋🏻‍♂️ Pedro Correia
  - 🦊 20 year old
  - 💻 Studying to become a computer engineer (on my last year hopefully)
- - ⌨️ Interest on website creation and management
+ - ⌨️ Keen interest in web development
 
 ### Some of the language/tools i use or have used during the past years 👨‍💻
 
